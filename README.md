@@ -1,4 +1,4 @@
-# imbing
+# imnaver
 
 A client wrapper for Naver Search OPEN API 
 
