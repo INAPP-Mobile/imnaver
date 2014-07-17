@@ -1,0 +1,26 @@
+{
+  "name": "imnaver",
+  "version": "0.1.2",
+  "description": "A node library for Naver Open API",
+  "main": "index.js",
+  "dependencies": {
+    "querystring": "~0.2.0",
+    "request": "~2.37.0",
+    "underscore": "~1.6.0",
+    "xml2js": "~0.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INAPP-Mobile/imnaver.git"
+  },
+  "author": "Michael Shim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/INAPP-Mobile/imnaver/issues"
+  },
+  "homepage": "https://github.com/INAPP-Mobile/imnaver"
+}
