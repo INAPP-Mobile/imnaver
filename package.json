@@ -1,6 +1,6 @@
 {
   "name": "imnaver",
-  "version": "0.1.10",
+  "version": "0.1.12",
   "description": "A node library for Naver Open API",
   "main": "index.js",
   "dependencies": {
